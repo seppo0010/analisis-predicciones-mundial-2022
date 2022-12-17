@@ -1,5 +1,5 @@
-Por [[Valeria Edelsztein]{.underline}](http://twitter.com/ValeArvejita)
-y [[Sebastián Waisbrot]{.underline}](http://twitter.com/seppo0011)
+Por [Valeria Edelsztein](http://twitter.com/ValeArvejita)
+y [Sebastián Waisbrot](http://twitter.com/seppo0011)
 
 ¿Manija? ¿Quién está manija? Nadie está manija.
 
@@ -24,10 +24,10 @@ predicciones y muy tajantes.
 
 Por suerte, también contamos con predicciones probabilísticas para cada
 uno de los partidos de la Copa. Por ejemplo, en
-[[fivethirtyeight]{.underline}](https://projects.fivethirtyeight.com/2022-world-cup-predictions/)
+[fivethirtyeight](https://projects.fivethirtyeight.com/2022-world-cup-predictions/)
 tenemos cada partido que se disputó y la evolución de las probabilidades
 a lo largo de los minutos de juego. Lo mismo con
-[[301060]{.underline}](https://301060.exactas.uba.ar/), de Exactas UBA,
+[301060](https://301060.exactas.uba.ar/), de Exactas UBA,
 que tiene predicciones de resultados para cada posible encuentro.
 
 La pregunta, entonces, era obvia (?): ¿cuán buenos fueron los modelos
@@ -37,7 +37,7 @@ Lo que pasó a continuación no les sorprenderá (o sí).
 
 Disclaimer: todos los cálculos y datos que se usarán a continuación
 están disponibles en
-[[GitHub]{.underline}](https://github.com/seppo0010/analisis-predicciones-mundial-2022)
+[GitHub](https://github.com/seppo0010/analisis-predicciones-mundial-2022)
 y ningún jugador de fútbol fue herido durante el proceso (quizás sí
 algunas susceptibilidades, pero eso no es responsabilidad del estadista)
 
@@ -46,7 +46,7 @@ algunas susceptibilidades, pero eso no es responsabilidad del estadista)
 El fútbol es un deporte bastante difícil de predecir. No es que estemos
 queriendo excusar a quienes hicieron las predicciones, simplemente es lo
 que pasa. En este
-[[hilo]{.underline}](https://twitter.com/pgroisma/status/1602641250842189824)
+[hilo](https://twitter.com/pgroisma/status/1602641250842189824)
 de Pablo Groisman hay una explicación que se resume en que en fútbol ser
 "el doble mejor" que tu rival hace que tus probabilidades de ganar sean
 aproximadamente 55%, es decir solamente un 10% por encima del oponente,
@@ -94,17 +94,17 @@ predicción mucho más interesante (y un delirio).
 
 Para poder, entonces, comparar los poderes predictivos de cada modelo
 necesitamos calcular cuánto mejor es uno frente a otro para cada partido
-de alguna forma sistemática. Usemos el [[calificador de
-Brier]{.underline}](https://en.wikipedia.org/wiki/Brier_score) para
+de alguna forma sistemática. Usemos el [calificador de
+Brier](https://en.wikipedia.org/wiki/Brier_score) para
 darle un número a cuánto mejor es una estimación sobre otra.
 
 Este método es el que se utiliza más comúnmente para medir la precisión
 de un pronóstico, especialmente cuando el resultado es binario. Por
 ejemplo, supongamos que el pronóstico del estado del tiempo dice que
 tenemos un 90% de probabilidades de lluvia y, al final, llueve. Podemos
-calcular el puntaje de Brier para este pronóstico como (f -- o)^2^ donde
+calcular el puntaje de Brier para este pronóstico como (f -- o)² donde
 f es la probabilidad pronosticada (0,9) y o es el resultado (1 si el
-evento ocurre, 0 si no ocurre). En este caso: (0,9 -- 1)^2^ = -0,1^2^ =
+evento ocurre, 0 si no ocurre). En este caso: (0,9 -- 1)² = (-0,1)² =
 0,01.
 
 Por la manera en la que se calcula, como una estimación del error, el
@@ -115,8 +115,8 @@ Brier para un conjunto de pronósticos tendremos que hacer el promedio de
 los puntajes de Brier para cada pronóstico individual.
 
 Para el caso del partido Catar-Ecuador, el puntaje de Brier es 0.1766
-((0.66-1)^2^+0.13^2^+0.21^2^) para 301060 y 0.3752
-((1-0.50)^2^+0.24^2^+0.26^2^) para fivethirtyeight, es decir, mucho
+((0.66-1)²+0.13²+0.21²) para 301060 y 0.3752
+((1-0.50)²+0.24²+0.26²) para fivethirtyeight, es decir, mucho
 mejor para el modelo de Exactas (AWANTE).
 
 ### Coeficiente
@@ -155,10 +155,10 @@ idea mejor.
 # Lo tercero: datos
 
 Los datos usados fueron obtenidos de
-[[fivethirtyeight]{.underline}](https://projects.fivethirtyeight.com/2022-world-cup-predictions/),
-[[306010]{.underline}](https://301060.exactas.uba.ar/manoamano.htm),
-[[oddspedia]{.underline}](https://oddspedia.com/es/futbol/mundo/copa-mundial)
-y [[fbref]{.underline}](https://fbref.com).
+[fivethirtyeight](https://projects.fivethirtyeight.com/2022-world-cup-predictions/),
+[306010](https://301060.exactas.uba.ar/manoamano.htm),
+[oddspedia](https://oddspedia.com/es/futbol/mundo/copa-mundial)
+y [fbref](https://fbref.com).
 
 ## Apuestas y probabilidades
 
@@ -187,35 +187,20 @@ El ganador es...
 
 ¡Ya comete la maldita naranja!
 
-  -----------------------------------------------------------------------
-  fivethirtyeight                     0.0858
-  ----------------------------------- -----------------------------------
-  301060                              0.1685
-
-  20bet                               0.0940
-
-  31bet                               0.0926
-
-  bc-game-sport                       0.0922
-
-  bet365                              0.0936
-
-  bodog                               0.0952
-
-  freshbet                            0.0923
-
-  goldenbet                           0.0926
-
-  ivibet                              0.0938
-
-  jackbit                             0.0926
-
-  lilibet                             0.0989
-
-  mystake                             0.0924
-
-  weltbet                             0.0982
-  -----------------------------------------------------------------------
+| fivethirtyeight                    |0.0858|
+| 301060                             |0.1685|
+| 20bet                              |0.0940|
+| 31bet                              |0.0926|
+| bc-game-sport                      |0.0922|
+| bet365                             |0.0936|
+| bodog                              |0.0952|
+| freshbet                           |0.0923|
+| goldenbet                          |0.0926|
+| ivibet                             |0.0938|
+| jackbit                            |0.0926|
+| lilibet                            |0.0989|
+| mystake                            |0.0924|
+| weltbet                            |0.0982|
 
 ¡Felicitaciones a la gente de Exactas! Mate, dulce de leche, birome y
 modelos predictores de Copas del Mundo. Al resto: "Andá pa\' allá bobo".
@@ -234,30 +219,14 @@ que, como funcionan como un mercado, se equilibran con la demanda.
 De los 64 partidos, 301060 (el mejor) y fivethirtyeight (el peor)
 eligieron al mismo ganador probable en 58. Las seis diferencias:
 
-+---------------+----------+-------+-----------+-----------+-----------+
-|               | fivethi  |       | 301060    |           | Resultado |
-|               | rtyeight |       |           |           |           |
-+===============+==========+=======+===========+===========+===========+
-| Marr          | 32%      | 39%   | 43%       | 28%       | 0-0       |
-| uecos-Croacia |          |       |           |           |           |
-+---------------+----------+-------+-----------+-----------+-----------+
-| Gales-Iran    | 39%      | 30%   | 25%       | 47%       | 0-2       |
-+---------------+----------+-------+-----------+-----------+-----------+
-| Tú            | 39%      | 29%   | 35%       | 37%       | 0-1       |
-| nez-Australia |          |       |           |           |           |
-+---------------+----------+-------+-----------+-----------+-----------+
-| Cr            | 39%      | 33%   | 28%       | 48%       | 0-0       |
-| oacia-Bélgica |          |       |           |           |           |
-+---------------+----------+-------+-----------+-----------+-----------+
-| Ingla         | 52%      | 48%   | 50%       | 50%       | 1-2       |
-| terra-Francia |          |       |           |           |           |
-+---------------+----------+-------+-----------+-----------+-----------+
-| Croa          | 53%      | 47%   | 43%       | 57%       |           |
-| cia-Marruecos |          |       |           |           |           |
-|               |          |       |           |           |           |
-| (tercer       |          |       |           |           |           |
-| puesto)       |          |       |           |           |           |
-+---------------+----------+-------+-----------+-----------+-----------+
+|               | fivethirtyeight  |       | 301060    |           | Resultado
+|--|--|--|--|--|
+| Marruecos-Croacia          | 32%      | 39%   | 43%       | 28%       | 0-0
+| Gales-Iran    | 39%      | 30%   | 25%       | 47%       | 0-2
+| Túnez-Australia            | 39%      | 29%   | 35%       | 37%       | 0-1
+| Croacia-Bélgica            | 39%      | 33%   | 28%       | 48%       | 0-0
+| Inglaterra-Francia         | 52%      | 48%   | 50%       | 50%       | 1-2
+| Croacia-Marruecos (tercer puesto)          | 53%      | 47%   | 43%       | 57%
 
 # El bonus-track nuestro de cada día
 
@@ -279,7 +248,7 @@ Los resultados más inesperados del mundial (en orden descendiente):
 
 Lamentablemente no contamos con todas las mismas predicciones de
 mundiales pasados, pero, por suerte (con qué poco nos divertimos),
-[[fivethirtyeight]{.underline}](https://projects.fivethirtyeight.com/2018-world-cup-predictions/)
+[fivethirtyeight](https://projects.fivethirtyeight.com/2018-world-cup-predictions/)
 sí las tiene. En el mundial pasado, el mismo coeficiente que ahora le da
 0.0858 le daba 0.1790 por lo que o bien empeoró mucho el modelo, o bien
 hubieron muchas más sorpresas en Catar.
