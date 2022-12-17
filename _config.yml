@@ -9,4 +9,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img.jpg
+      image: https://seppo0010.github.io/analisis-predicciones-mundial-2022/img.jpg
