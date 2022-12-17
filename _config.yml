@@ -5,8 +5,8 @@ url: https://seppo0010.github.io/analisis-predicciones-mundial-2022/
 author: seppo0011
 twitter:
   username: seppo0011
-image:
-  path: /img.jpg
-  width: 2048
-  height: 1152
-  alt: Copa del Mundo
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img.jpg
