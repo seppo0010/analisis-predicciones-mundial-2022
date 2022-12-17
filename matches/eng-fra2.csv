@@ -1,0 +1,13 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Olivier Giroud,9,FW,36-071,1.it Milan,90,1,0,0,0,4,3,0,0,23,0,0,0,0.7,0.7,0.0,0,0,6,11,54.5,1,0,0,16ceb862
+Kylian Mbappé,10,LW,23-355,1.fr Paris S-G,90,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.0,1,0,24,28,85.7,2,2,6,42fd9c7f
+Ousmane Dembélé,11,RW,25-209,1.es Barcelona,78,0,0,0,0,1,0,1,0,47,3,0,0,0.0,0.0,0.5,4,1,30,38,78.9,1,0,2,b19db005
+Kingsley Coman,20,RW,26-180,1.de Bayern Munich,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,042e8a49
+Antoine Griezmann,7,AM,31-264,1.es Atlético Madrid,90,0,2,0,0,0,0,1,0,53,2,0,1,0.0,0.0,0.2,4,2,39,48,81.3,3,1,2,df69b544
+Adrien Rabiot,14,DM,27-251,1.it Juventus,90,0,0,0,0,1,1,0,0,51,0,2,2,0.1,0.1,0.0,2,0,33,43,76.7,2,1,1,8794e251
+Aurélien Tchouaméni,8,DM,22-317,1.es Real Madrid,90,1,0,0,0,1,1,0,0,47,1,0,0,0.0,0.0,0.0,0,0,37,41,90.2,2,0,0,4f255115
+Theo Hernández,22,LB,25-065,1.it Milan,90,0,0,0,0,0,0,1,0,49,3,1,0,0.0,0.0,0.2,3,1,34,40,85.0,1,0,0,d4c9725f
+Dayot Upamecano,18,CB,24-044,1.de Bayern Munich,90,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.0,0,0,37,47,78.7,2,0,0,d248cd8f
+Raphaël Varane,4,CB,29-229,1.eng Manchester Utd,90,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,1,0,32,37,86.5,1,0,0,9f8e9423
+Jules Koundé,5,RB,24-028,1.es Barcelona,90,0,0,0,0,0,0,0,0,58,0,1,3,0.0,0.0,0.1,1,0,38,49,77.6,1,0,0,4d1666ff
+Hugo Lloris,1,GK,35-349,1.eng Tottenham,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,0,0,8f62b6ee

@@ -1,0 +1,16 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Michy Batshuayi,23,FW,29-052,1.tr Fenerbahçe,77,1,0,0,0,5,2,0,0,24,1,0,1,0.5,0.5,0.0,1,0,9,14,64.3,1,0,0,2973d8ff
+Loïs Openda,24,FW,22-280,1.fr Lens,13,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,2,0,3,5,60.0,0,1,1,8652a85c
+Eden Hazard,10,AM,31-320,1.es Real Madrid,61,0,0,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.0,1,0,19,25,76.0,3,2,4,a39bb753
+Leandro Trossard,17,AM,27-354,1.eng Brighton,29,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,11,13,84.6,1,0,1,38ceb24a
+Kevin De Bruyne,7,AM,31-148,1.eng Manchester City,90,0,0,0,0,2,1,0,0,45,1,0,1,0.1,0.1,0.2,5,0,28,39,71.8,7,2,3,e46012d4
+Axel Witsel,6,CM,33-315,1.es Atlético Madrid,90,0,0,0,0,0,0,0,0,53,1,0,4,0.0,0.0,0.0,1,0,44,46,95.7,2,0,0,5dfc6ad5
+Youri Tielemans,8,CM,25-200,1.eng Leicester City,45,0,0,0,0,0,0,0,0,26,1,0,2,0.0,0.0,0.1,1,0,14,20,70.0,2,0,0,56f7a928
+Amadou Onana,18,CM,21-099,1.eng Everton,45,0,0,0,0,0,0,1,0,26,3,0,1,0.0,0.0,0.0,0,0,18,20,90.0,1,1,1,828657ff
+Yannick Carrasco,11,WB,29-080,1.es Atlético Madrid,45,0,0,0,0,0,0,1,0,25,4,0,1,0.0,0.0,0.0,0,0,14,15,93.3,0,0,1,de39485a
+Thomas Meunier,15,WB,31-072,1.de Dortmund,45,0,0,0,0,1,0,1,0,30,1,1,0,0.0,0.0,0.0,0,0,18,26,69.2,1,0,1,e162b013
+Timothy Castagne,21,WB,26-353,1.eng Leicester City,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.0,0,0,32,44,72.7,2,0,1,197640fd
+Jan Vertonghen,5,CB,35-213,1.be Anderlecht,90,0,0,0,0,0,0,0,0,83,0,0,2,0.0,0.0,0.0,1,1,57,76,75.0,2,0,0,ba23a904
+Toby Alderweireld,2,CB,33-266,1.be Antwerp,90,0,1,0,0,0,0,0,0,91,2,0,1,0.0,0.0,0.3,1,1,69,76,90.8,0,0,0,f7d50789
+Leander Dendoncker,19,CB,27-222,1.eng Aston Villa,90,0,0,0,0,1,0,0,0,89,2,0,3,0.1,0.1,0.0,0,0,74,76,97.4,3,0,0,5a7301ae
+Thibaut Courtois,1,GK,30-196,1.es Real Madrid,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,41,51,80.4,0,0,0,1840e36d

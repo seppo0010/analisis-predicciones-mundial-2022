@@ -1,0 +1,17 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Youssef En-Nesyri,19,FWRM,25-183,1.es Sevilla,90,1,0,0,0,1,1,0,0,33,1,0,2,0.3,0.3,0.0,0,0,13,20,65.0,1,1,3,04e17fd5
+Sofiane Boufal,17,LW,29-075,1.fr Angers,64,0,0,0,0,1,0,0,0,30,3,1,1,0.0,0.0,0.1,1,0,13,17,76.5,0,1,4,b0c71810
+Zakaria Aboukhlal,14,LWLBLM,22-286,1.fr Toulouse,26,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,c2a6033c
+Hakim Ziyech,7,RW,29-257,1.eng Chelsea,75,1,0,0,0,2,1,0,0,52,2,1,3,0.1,0.1,0.0,2,0,26,40,65.0,2,3,7,6622454d
+Abderrazak Hamdallah,9,FW,31-349,1.sa Al-Ittihad,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,0,0,fe73f8c6
+Abdelhamid Sabiri,11,LM,26-003,1.it Sampdoria,64,0,0,0,0,2,0,0,0,35,1,2,1,0.1,0.1,0.0,1,0,20,25,80.0,0,0,0,4830e0af
+Selim Amallah,15,LMCM,26-016,1.be Standard Liège,26,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,1,00eba9c9
+Sofyan Amrabat,4,CM,26-102,1.it Fiorentina,90,0,0,0,0,0,0,0,0,54,3,3,0,0.0,0.0,0.0,0,0,43,47,91.5,2,0,0,5a2cb25d
+Azzedine Ounahi,8,RM,22-226,1.fr Angers,76,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,2,0,27,34,79.4,2,2,3,83299cc0
+Jawad El Yamiq,18,CB,30-275,1.es Valladolid,14,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,f6f6b6e8
+Noussair Mazraoui,3,LBRB,25-017,1.de Bayern Munich,90,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,15,23,65.2,2,0,1,b74277a0
+Romain Saïss,6,CB,32-250,1.tr Beşiktaş,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,0,0,33,44,75.0,1,1,1,9fbbcf39
+Nayef Aguerd,5,CB,26-246,1.eng West Ham,90,0,0,0,0,0,0,0,0,50,1,2,0,0.0,0.0,0.0,1,1,37,44,84.1,0,0,0,288e1e13
+Achraf Hakimi,2,RB,24-027,1.fr Paris S-G,84,0,1,0,0,0,0,0,0,68,4,2,0,0.0,0.0,0.3,2,1,50,59,84.7,1,0,1,e42d61c7
+Yahya Jabrane,26,MF,31-166,1.ma Wydad Casablanca,6,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,143efbd5
+Yassine Bounou,1,GK,31-240,1.es Sevilla,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,0,0,f6798fc3

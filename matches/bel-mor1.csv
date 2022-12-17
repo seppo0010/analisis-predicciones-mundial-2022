@@ -1,0 +1,17 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Michy Batshuayi,23,FW,29-056,1.tr Fenerbahçe,74,0,0,0,0,1,0,0,0,18,0,0,0,0.2,0.2,0.1,1,0,7,10,70.0,0,1,3,2973d8ff
+Leandro Trossard,17,WBLW,27-358,1.eng Brighton,16,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,0,2,38ceb24a
+Thorgan Hazard,16,LW,29-243,1.de Dortmund,74,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.7,6,0,30,48,62.5,3,0,2,50871bcc
+Charles De Ketelaere,22,FW,21-262,1.it Milan,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,2ef7c612
+Kevin De Bruyne,7,RWAMCM,31-152,1.eng Manchester City,90,0,0,0,0,3,0,0,0,72,0,0,0,0.1,0.1,0.1,3,0,40,60,66.7,8,0,3,e46012d4
+Eden Hazard,10,AM,31-324,1.es Real Madrid,59,0,0,0,0,1,1,0,0,36,0,0,0,0.1,0.1,0.0,4,0,26,31,83.9,3,2,5,a39bb753
+Dries Mertens,14,RWAM,35-205,1.tr Galatasaray,31,0,0,0,0,1,1,0,0,20,2,0,0,0.1,0.1,0.0,2,0,10,16,62.5,1,1,1,89b2c8a9
+Axel Witsel,6,DMCB,33-319,1.es Atlético Madrid,90,0,0,0,0,0,0,0,0,83,3,1,0,0.0,0.0,0.0,0,0,77,79,97.5,4,0,0,5dfc6ad5
+Amadou Onana,18,DM,21-103,1.eng Everton,59,0,0,0,0,2,0,1,0,48,1,0,0,0.5,0.5,0.0,0,0,40,44,90.9,0,0,0,828657ff
+Youri Tielemans,8,DMCM,25-204,1.eng Leicester City,31,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,1,0,28,30,93.3,2,0,0,56f7a928
+Timothy Castagne,21,LBWB,26-357,1.eng Leicester City,90,0,0,0,0,0,0,0,0,78,3,1,0,0.0,0.0,0.0,0,0,64,73,87.7,3,0,1,197640fd
+Jan Vertonghen,5,CB,35-217,1.be Anderlecht,90,0,0,0,0,1,0,0,0,109,0,3,0,0.0,0.0,0.0,0,0,97,103,94.2,3,0,0,ba23a904
+Toby Alderweireld,2,CB,33-270,1.be Antwerp,90,0,0,0,0,0,0,0,0,105,0,0,0,0.0,0.0,0.0,1,0,97,102,95.1,7,0,0,f7d50789
+Thomas Meunier,15,RB,31-076,1.de Dortmund,80,0,0,0,0,1,1,0,0,55,1,1,1,0.1,0.1,0.0,2,0,38,50,76.0,2,1,2,e162b013
+Romelu Lukaku,9,FW,29-198,1.it Inter,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,5eae500a
+Thibaut Courtois,1,GK,30-200,1.es Real Madrid,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,34,36,94.4,0,1,1,1840e36d

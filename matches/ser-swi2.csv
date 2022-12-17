@@ -1,0 +1,16 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Breel Embolo,7,FW,25-291,1.fr Monaco,89,1,0,0,0,3,2,0,0,25,0,0,0,1.7,1.7,0.0,2,0,12,15,80.0,0,1,2,0b4f388a
+Noah Okafor,19,FW,22-192,1.at RB Salzburg,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,2,ca607d59
+Ruben Vargas,17,LW,24-119,1.de Augsburg,82,0,1,0,0,1,0,1,0,31,0,0,2,0.1,0.1,0.2,3,2,16,23,69.6,2,0,1,6ecbddf6
+Christian Fassnacht,16,LW,29-021,1.ch Young Boys,8,0,0,0,0,1,1,0,0,12,0,0,0,0.2,0.2,0.0,0,0,7,10,70.0,0,2,2,0aeeed3f
+Xherdan Shaqiri,23,RW,31-053,1.us Chicago Fire,68,1,0,0,0,2,1,0,0,28,0,0,0,0.2,0.2,0.3,2,1,16,25,64.0,3,0,0,6421ec64
+Denis Zakaria,6,DM,26-012,1.eng Chelsea,22,0,0,0,0,0,0,0,0,15,0,3,1,0.0,0.0,0.0,1,0,7,8,87.5,2,0,1,384d58d9
+Djibril Sow,15,AM,25-299,1.de Eint Frankfurt,67,0,1,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.1,2,2,21,28,75.0,3,0,0,4c6facae
+Edimilson Fernandes,2,RW,26-231,1.de Mainz 05,23,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.2,1,0,12,16,75.0,2,0,0,3bb625ac
+Granit Xhaka,10,DM,30-066,1.eng Arsenal,90,0,0,0,0,3,2,1,0,62,1,2,0,0.2,0.2,0.1,4,0,52,55,94.5,9,0,1,e61b8aee
+Remo Freuler,8,DMAM,30-231,1.eng Nott'ham Forest,90,1,0,0,0,2,1,0,0,47,2,2,2,0.2,0.2,0.0,1,0,18,28,64.3,0,0,1,98d2c2c4
+Ricardo Rodríguez,13,LB,30-099,1.it Torino,90,0,0,0,0,0,0,0,0,53,2,0,0,0.0,0.0,0.1,1,0,29,49,59.2,4,0,0,7f78ad23
+Manuel Akanji,5,CB,27-136,1.eng Manchester City,90,0,0,0,0,1,0,0,0,62,0,1,1,0.1,0.1,0.1,2,0,47,52,90.4,1,0,0,89ac64a6
+Fabian Schär,22,CB,30-347,1.eng Newcastle Utd,90,0,0,0,0,1,0,1,0,60,1,2,1,0.1,0.1,0.0,5,0,36,46,78.3,0,0,0,c8aa95da
+Silvan Widmer,3,RB,29-272,1.de Mainz 05,90,0,1,0,0,0,0,1,0,73,3,0,1,0.0,0.0,0.6,2,1,49,67,73.1,5,0,1,f68b64fc
+Gregor Kobel,21,GK,24-361,1.de Dortmund,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,0,0,cd59b9df

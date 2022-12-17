@@ -1,0 +1,16 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Kasper Dolberg,12,FW,25-047,1.es Sevilla,64,0,0,0,0,2,0,0,0,19,0,0,0,0.3,0.3,0.0,1,0,8,11,72.7,1,0,1,cc83b74d
+Andreas Cornelius,21,FW,29-251,1.dk FC Copenhagen,26,0,0,0,0,3,2,0,0,12,0,0,0,1.0,1.0,0.0,2,0,3,6,50.0,0,1,1,c693347d
+Andreas Skov Olsen,11,FWAM,22-328,1.be Club Brugge,64,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.0,1,0,19,28,67.9,3,0,0,c50cee19
+Jesper Lindstrøm,25,RW,22-266,1.de Eint Frankfurt,26,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,0,1,37dc1a48
+Christian Eriksen,10,CMAM,30-281,1.eng Manchester Utd,90,0,0,0,0,1,1,0,0,87,0,0,0,0.1,0.1,0.3,5,0,65,81,80.2,4,0,4,980522ec
+Thomas Delaney,8,CM,31-080,1.es Sevilla,44,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,24,29,82.8,1,0,0,fe641c1a
+Mikkel Damsgaard,14,LWAM,22-142,1.eng Brentford,46,0,0,0,0,0,0,0,0,33,0,2,0,0.0,0.0,0.2,2,0,20,29,69.0,1,0,1,215f3907
+Pierre Højbjerg,23,CMDM,27-109,1.eng Tottenham,90,0,0,0,0,1,1,0,0,83,2,2,0,0.0,0.0,0.0,0,0,67,72,93.1,6,0,1,8b04d6c1
+Joakim Mæhle,5,WBLB,25-186,1.it Atalanta,90,0,0,0,0,1,0,0,0,68,2,0,3,0.0,0.0,0.0,2,0,44,54,81.5,5,0,3,c459a650
+Rasmus Nissen,13,WBRB,25-134,1.eng Leeds United,90,0,0,0,0,0,0,1,0,67,3,1,1,0.0,0.0,0.0,1,0,42,57,73.7,6,0,2,39769cff
+Andreas Christensen,6,CB,26-226,1.es Barcelona,90,0,0,0,0,1,0,0,0,93,1,1,5,0.1,0.1,0.0,1,0,80,83,96.4,7,0,0,1cb49278
+Simon Kjær,4,CB,33-241,1.it Milan,64,0,0,0,0,0,0,0,0,68,0,5,1,0.0,0.0,0.0,0,0,50,59,84.7,4,0,0,8b8a56ce
+Mathias Jensen,7,DM,26-325,1.eng Brentford,26,0,0,0,0,1,0,1,0,34,0,0,0,0.0,0.0,0.2,2,0,27,32,84.4,2,0,0,0f134faf
+Joachim Andersen,2,CB,26-175,1.eng Crystal Palace,90,0,0,0,0,1,1,0,0,87,3,0,1,0.0,0.0,0.0,1,0,59,76,77.6,2,0,1,e34fc66d
+Kasper Schmeichel,1,GK,36-017,1.fr Nice,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,0,0,53af52f3

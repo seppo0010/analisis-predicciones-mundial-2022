@@ -1,0 +1,16 @@
+Player,#,Pos,Age,Club,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att,-9999
+Harry Kane,9,FW,29-135,1.eng Tottenham,90,1,0,1,2,3,3,0,0,33,0,0,0,1.8,0.2,0.0,1,0,13,23,56.5,2,0,0,21a66f6a
+Phil Foden,20,LW,22-196,1.eng Manchester City,84,0,0,0,0,1,0,0,0,35,0,1,0,0.0,0.0,0.1,4,0,22,26,84.6,1,1,3,ed1e53f3
+Marcus Rashford,11,LW,25-040,1.eng Manchester Utd,6,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,0,0,a1d5bd30
+Bukayo Saka,17,RW,21-096,1.eng Arsenal,78,0,0,0,0,1,1,0,0,35,3,0,1,0.1,0.1,0.2,5,1,18,25,72.0,3,1,4,bc7dc64d
+Raheem Sterling,10,RW,28-002,1.eng Chelsea,12,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,0,0,b400bde0
+Jude Bellingham,22,LM,19-164,1.de Dortmund,90,0,0,0,0,2,1,0,0,63,5,1,3,0.2,0.2,0.0,5,1,36,47,76.6,3,0,1,57d88cf9
+Declan Rice,4,CMCB,23-330,1.eng West Ham,90,0,0,0,0,0,0,0,0,74,3,3,1,0.0,0.0,0.0,3,0,58,62,93.5,3,0,1,1c7012b8
+Jordan Henderson,8,RM,32-176,1.eng Liverpool,78,0,0,0,0,1,0,0,0,47,0,1,1,0.0,0.0,0.3,6,0,39,43,90.7,5,0,0,935e6b8f
+Mason Mount,19,RM,23-334,1.eng Chelsea,12,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,9674002f
+Luke Shaw,3,LB,27-151,1.eng Manchester Utd,90,0,0,0,0,2,1,0,0,80,1,0,0,0.1,0.1,0.0,1,0,55,71,77.5,3,0,0,9c94165b
+Harry Maguire,6,CB,29-280,1.eng Manchester Utd,90,0,0,0,0,2,0,1,0,99,1,1,0,0.1,0.1,0.0,2,0,78,91,85.7,5,0,0,d8931174
+John Stones,5,CB,28-196,1.eng Manchester City,89,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.1,2,0,72,72,100.0,5,1,1,5eecec3d
+Jack Grealish,7,CMCB,27-091,1.eng Manchester City,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,b0b4fd3e
+Kyle Walker,2,RB,32-196,1.eng Manchester City,90,0,0,0,0,0,0,0,0,50,1,1,2,0.0,0.0,0.0,2,0,43,47,91.5,4,1,2,86dd77d1
+Jordan Pickford,1,GK,28-278,1.eng Everton,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,0,0,4806ec67
