@@ -1,8 +1,8 @@
 name: Cuán buenas fueron las predicciones estadísticas del Mundial
-site:
-  url: https://seppo0010.github.io/analisis-predicciones-mundial-2022/
-  title_image: https://seppo0010.github.io/analisis-predicciones-mundial-2022/img.jpg
-  description: El fútbol es un deporte bastante difícil de predecir. ¿Es la probabilidad la herramienta adecuada para esto?
-  twitter_username: seppo0011
-  author: seppo0011
-  title: Cuán buenas fueron las predicciones estadísticas del Mundial
+title: Cuán buenas fueron las predicciones estadísticas del Mundial
+description: El fútbol es un deporte bastante difícil de predecir. ¿Es la probabilidad la herramienta adecuada para esto?
+url: https://seppo0010.github.io/analisis-predicciones-mundial-2022/
+author: seppo0011
+twitter:
+  username: seppo0011
+logo: https://seppo0010.github.io/analisis-predicciones-mundial-2022/img.jpg
