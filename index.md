@@ -39,7 +39,7 @@ Disclaimer: todos los cálculos y datos que se usarán a continuación
 están disponibles en
 [GitHub](https://github.com/seppo0010/analisis-predicciones-mundial-2022)
 y ningún jugador de fútbol fue herido durante el proceso (quizás sí
-algunas susceptibilidades, pero eso no es responsabilidad del estadista)
+algunas susceptibilidades, pero eso no es responsabilidad del estadista).
 
 # Lo primero: estimar el fútbol es difícil
 
@@ -202,7 +202,7 @@ El ganador es...
 | mystake                            |0.0924|
 | weltbet                            |0.0982|
 
-¡Felicitaciones a la gente de Exactas! Mate, dulce de leche, birome y
+¡Felicitaciones a la gente de Exactas! Mate, dulce de leche, colectivo, birome y
 modelos predictores de Copas del Mundo. Al resto: "Andá pa\' allá bobo".
 
 ## Nos calmemos (o "abriendo el paraguas")
