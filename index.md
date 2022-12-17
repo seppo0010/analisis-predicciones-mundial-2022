@@ -183,7 +183,7 @@ competición, mientras que el resto pudo "aprender" sobre la marcha, ya
 sea ver qué equipos estaban superando las expectativas, o qué jugadores
 se lesionaron o fueron suspendidos. Esto les debería dar cierta ventaja.
 
-El ganador es...
+# El ganador es...
 
 ¡Ya comete la maldita naranja!
 
