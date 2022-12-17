@@ -187,20 +187,20 @@ El ganador es...
 
 ¡Ya comete la maldita naranja!
 
-| fivethirtyeight                    |0.0858|
 | 301060                             |0.1685|
-| 20bet                              |0.0940|
-| 31bet                              |0.0926|
-| bc-game-sport                      |0.0922|
-| bet365                             |0.0936|
-| bodog                              |0.0952|
-| freshbet                           |0.0923|
-| goldenbet                          |0.0926|
-| ivibet                             |0.0938|
-| jackbit                            |0.0926|
 | lilibet                            |0.0989|
-| mystake                            |0.0924|
 | weltbet                            |0.0982|
+| bodog                              |0.0952|
+| 20bet                              |0.0940|
+| ivibet                             |0.0938|
+| bet365                             |0.0936|
+| jackbit                            |0.0926|
+| goldenbet                          |0.0926|
+| 31bet                              |0.0926|
+| mystake                            |0.0924|
+| freshbet                           |0.0923|
+| bc-game-sport                      |0.0922|
+| fivethirtyeight                    |0.0858|
 
 ¡Felicitaciones a la gente de Exactas! Mate, dulce de leche, colectivo, birome y
 modelos predictores de Copas del Mundo. Al resto: "Andá pa\' allá bobo".
