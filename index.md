@@ -1,5 +1,5 @@
-Por [Valeria Edelsztein](http://twitter.com/ValeArvejita)
-y [Sebastián Waisbrot](http://twitter.com/seppo0011)
+Por [Sebastián Waisbrot](http://twitter.com/seppo0011)
+y [Valeria Edelsztein](http://twitter.com/ValeArvejita)
 
 ¿Manija? ¿Quién está manija? Nadie está manija.
 
@@ -47,12 +47,12 @@ El fútbol es un deporte bastante difícil de predecir. No es que estemos
 queriendo excusar a quienes hicieron las predicciones, simplemente es lo
 que pasa. En este
 [hilo](https://twitter.com/pgroisma/status/1602641250842189824)
-de Pablo Groisman hay una explicación que se resume en que en fútbol ser
+del matemático Pablo Groisman hay una explicación que se resume en que en fútbol ser
 "el doble mejor" que tu rival hace que tus probabilidades de ganar sean
 aproximadamente 55%, es decir solamente un 10% por encima del oponente,
 mucho menores que en el caso del tenis, por ejemplo.
 
-En este Mundial, a lo largo de los 62 partidos jugados hubo 163 goles,
+En este Mundial, a lo largo de los 62 partidos jugados (esto está siendo escrito el sábado 17 de diciembre al mediodía) hubo 163 goles,
 es decir, entre 2 y 3 goles por partido, y 37 de ellos (60%) se
 resolvieron por una diferencia de un gol o hubo empate, es decir, que un
 gol fue determinante en el resultado final.
